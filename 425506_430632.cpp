@@ -13,3 +13,5 @@ int main() {
 }
 
 DynamicArray::DynamicArray() {}
+//DENEME
+
